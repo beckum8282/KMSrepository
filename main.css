@@ -6,7 +6,7 @@
 .title{
     width: 98px;
     height: 131px;
-    background-image: url(/Users/kms/Desktop/HTML/logo.png);
+    background-image: url(logo.png);
 	background-repeat:no-repeat;
     background-size: 98px 131px;
     margin: 50 auto 0;
@@ -99,7 +99,7 @@ font-size:13px;
     height: 40px;
     border-radius: 5px;
     background-color: #fff;
-    background-image: url(/Users/kms/Desktop/HTML/ico_email_join.png);
+    background-image: url(ico_email_join.png);
     background-size: 230px 40px;
     margin: 5 auto 0;
 }
@@ -107,7 +107,7 @@ font-size:13px;
 .fbdiv{
     width: 200;
     height: 12;
-    background-image: url(/Users/kms/Desktop/HTML/bar_or.png);
+    background-image: url(bar_or.png);
 	background-repeat:no-repeat;
 	background-size: 200px 12px;
     margin: 20 auto 30;
@@ -142,7 +142,7 @@ font-size:13px;
     height: 70px;
     border-radius: 35px;
     background-color: #fff;
-    background-image: url(../img/profile.png); 
+    background-image: url(profile.png); 
     background-size: 70px 70px;
     margin: 0 auto 0;
 }
