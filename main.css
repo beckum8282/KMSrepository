@@ -1,0 +1,189 @@
+﻿body {
+ background:#7986CB;
+ margin:0px;
+}
+
+.title{
+    width: 98px;
+    height: 131px;
+    background-image: url(/Users/kms/Desktop/HTML/logo.png);
+	background-repeat:no-repeat;
+    background-size: 98px 131px;
+    margin: 50 auto 0;
+}
+
+.content{
+    font-size: 24px;
+	margin-top:10px;
+	text-align:center;
+    color: #333;
+	font-family:'NN' !important;
+}
+.content2{
+    padding: 0 15px;
+    font-size: 13px;
+	margin-top:20px;
+	text-align:center;
+    color: #fff;
+    
+}
+.content3{
+    padding: 0 15px;
+    font-size: 24px;
+	margin-top:20px;
+	text-align:center;
+    color: #fff;
+    
+}
+.login{
+	margin-top:20;
+    text-align: center;
+    margin-bottom: -10px;
+}
+::-webkit-input-placeholder{
+color:#d6d9ee;
+font-size:13px;
+
+}
+textarea:-moz-placeholder, input:-moz-placeholder{
+color:#d6d9ee;
+font-size:13px;
+
+} 
+.inputName {
+    width: 270px;
+    height: 35px;
+    font-size: 14px;
+    border: 1px solid #8d98d3;
+	background:#8d98d3;
+	margin-top:5px;
+    padding-left: 5px;
+    font-family: 'NN' !important;
+	background-repeat: no-repeat;
+	color:#fff;
+	border-radius: 10px;
+}
+
+.find_pw{
+    background-color: #d9d9d9;
+    width: 20;
+    height: 20;
+    -webkit-border-radius: 100px;
+    display: -webkit-inline-box;
+	position: absolute;
+	margin-left: 5px;
+    margin-top: 13px;
+}
+.find_txt{
+    margin-left: 5.7px;
+    color: #fff;
+}
+
+.login_btn {
+    font-family: 'NN' !important;
+    border-top: 1px solid #fff;
+    background: #fff;
+    margin-top: 10px;
+    width: 270px;
+    height: 35px;
+    border: 0px;
+    font-size: 15px;
+    text-align: center;
+    line-height: 23px;
+    color: #7956cb;
+	border-radius: 10px;
+}
+
+.email_join_btn {
+    width: 230px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #fff;
+    background-image: url(/Users/kms/Desktop/HTML/ico_email_join.png);
+    background-size: 230px 40px;
+    margin: 5 auto 0;
+}
+
+.fbdiv{
+    width: 200;
+    height: 12;
+    background-image: url(/Users/kms/Desktop/HTML/bar_or.png);
+	background-repeat:no-repeat;
+	background-size: 200px 12px;
+    margin: 20 auto 30;
+}
+
+.facebook_login{
+    text-align: center;
+}
+
+
+.agreement {
+    text-decoration: none;
+    font-size: 5px;
+    color: #fff;
+}
+
+.join_div {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    overflow: hidden;
+    background: #d9d9d9;
+    text-align: center;
+    z-index: 9999;
+}
+
+
+.join_profile{
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    background-color: #fff;
+    background-image: url(../img/profile.png); 
+    background-size: 70px 70px;
+    margin: 0 auto 0;
+}
+
+.facebook_join{
+    width: 230px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #fff;
+    background-image: url(/Users/kms/Desktop/HTML/ico_facebook_join.png);
+    background-size: 230px 40px;
+    margin: -10 auto 0;
+}
+
+
+.profile_bg {
+	position:relative;
+}
+
+.email-input{
+calc(70% - 22px);
+margin-bottom:40px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+
+.error{
+    margin: 0 60 0 0;
+    font-size: 12px;
+    color: #fff;
+}
+
+.find {
+    font-size: 8px;
+    color: #d2ddfb;
+    border-bottom: 1px solid #d2ddfb;
+    padding-bottom: 1px;
+    margin: 0 20 0 20;;
+}}
